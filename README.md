@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @efjayen
-- 👀 I’m interested in learning and getting good enough to find an IT-Job.
-- 🌱 I’m currently learning with @highnet
+- 👋 Hi, I’m Flo or @efjayen
+- 👀 I’m interested in learning and getting an IT-Job.
+- 🌱 I’m currently learning!
 - 📫 How to reach me: efjayen#3341 (discord)
 
 <!---
