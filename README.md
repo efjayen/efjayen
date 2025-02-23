@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Flo or @efjayen
-- 👀 I’m interested in learning and getting an IT-Job.
-- 🌱 I’m currently learning!
+- 👀 I’m interested in developing.
+- 🌱 I’m always learning!
 - 📫 How to reach me: efjayen#3341 (discord)
 
 <!---
